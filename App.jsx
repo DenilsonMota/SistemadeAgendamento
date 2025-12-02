@@ -264,8 +264,8 @@ export default function App() {
             </div>
             <div>
                 <h4 className="text-white font-bold mb-4">Contato</h4>
-                <p className="flex items-center gap-2 mb-2"><Phone size={14}/> (11) 99999-9999</p>
-                <p className="flex items-center gap-2"><MapPin size={14}/> Rua da Faculdade, 123</p>
+                <p className="flex items-center gap-2 mb-2"><Phone size={14}/> (75) 99999-9999</p>
+                <p className="flex items-center gap-2"><MapPin size={14}/> Avenida Brasil, 1001</p>
             </div>
             <div>
                 <h4 className="text-white font-bold mb-4">Horário</h4>
@@ -491,4 +491,5 @@ export default function App() {
       </main>
     </div>
   );
+
 }
